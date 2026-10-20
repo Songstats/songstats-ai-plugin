@@ -1,0 +1,17 @@
+{
+  "name": "songstats",
+  "version": "1.0.0",
+  "description": "Explore authorized artist, label, collaborator, track, audience, and playlist analytics with Songstats.",
+  "author": {
+    "name": "The Stats Company",
+    "email": "support@songstats.com",
+    "url": "https://songstats.com"
+  },
+  "homepage": "https://github.com/Songstats/songstats-ai-plugin",
+  "repository": "https://github.com/Songstats/songstats-ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "songstats"
+  ],
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "songstats",
+  "version": "1.0.0",
+  "description": "Explore authorized artist, label, collaborator, track, audience, and playlist analytics with Songstats.",
+  "mcpServers": {
+    "songstats": {
+      "httpUrl": "https://api.songstats.com/mcp",
+      "oauth": {
+        "enabled": true,
+        "scopes": [
+          "mcp:read",
+          "enterprise:read"
+        ]
+      }
+    }
+  }
+}
